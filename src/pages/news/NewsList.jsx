@@ -2,8 +2,8 @@ import React from 'react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import NewsItem from './NewsItem.jsx';
-import ErrorPage from '../components/ErrorPage.jsx';
-import ContentLoader from '../components/ContentLoader.jsx';
+import ErrorPage from '../../components/ErrorPage.jsx';
+import ContentLoader from '../../components/ContentLoader.jsx';
 import { selectors } from '../../slices/newsSlice.js';
 
 const NewsList = () => {

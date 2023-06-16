@@ -6,8 +6,8 @@ import {
 } from 'react-router-dom';
 
 import Header from './Header.jsx';
-import NewsPage from './pages/news/NewsPage.jsx';
-import SingleNewsPage from './pages/news/SingleNewsPage.jsx';
+import NewsPage from '../pages/news/NewsPage.jsx';
+import SingleNewsPage from '../pages/news/SingleNewsPage.jsx';
 import ErrorPage from './ErrorPage.jsx';
 
 const App = () => {
