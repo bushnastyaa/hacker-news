@@ -2,7 +2,7 @@ import React  from 'react';
 import { Container, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
-const Header = () => (
+const NavBar = () => (
   <Navbar className="navbar navbar-light">
     <Container>
       <Link className="navbar-brand" to="/">
@@ -12,4 +12,4 @@ const Header = () => (
   </Navbar>
 );
 
-export default Header;
+export default NavBar;
