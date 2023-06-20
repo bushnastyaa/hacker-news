@@ -14,7 +14,7 @@ Shows the latest 100 news as a list sorted by date. The news list is automatical
 * React  + Redux Toolkit
 * [React Router v6](https://reactrouter.com/en/v6.3.0/api)
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
-* [Official Hacker News API]((https://github.com/HackerNews/API))
+* [Official Hacker News API](https://github.com/HackerNews/API)
 * [Axios](https://axios-http.com)
 
 ## How To Install
@@ -37,4 +37,4 @@ npm start
 
 ## Demo
 
-#### [Preview](https://hacker-news-one-chi.vercel.app)
+### [Preview](https://hacker-news-one-chi.vercel.app)
